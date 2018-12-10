@@ -3,7 +3,7 @@
 
 In this repository there are five examples of my code from the MAGD150 course at UW-Whitewater
 
-## f18magd150lab02_Hill
+## [f18magd150lab02_Hill] (https://github.com/Hillster120/MADG150/tree/master/f18magd150lab02_Hill)
 
 This lab's goal was to show our ablility to use color in our compositions. For this assignment I create an image with a spaceship flying past three planets in deep space.
 
