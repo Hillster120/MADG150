@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# MADG150
+## Readme File
 
-You can use the [editor on GitHub](https://github.com/Hillster120/MADG150/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+In this repository there are five examples of my code from the MAGD150 course at UW-Whitewater
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ [f18magd150lab02_Hill](https://github.com/Hillster120/MADG150/tree/master/f18magd150lab02_Hill)
 
-### Markdown
+This lab's goal was to show our ablility to use color in our compositions. For this assignment I create an image with a spaceship flying past three planets in deep space.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ [f18magd150lab04_Hill](https://github.com/Hillster120/MADG150/tree/master/f18magd150lab04_Hill) 
 
-```markdown
-Syntax highlighted code block
+This lab's goal was to have us test our animation skills, as well as to use the mousePressed() and keyPressed functions. For this project I created an island surrounded by the ocean. I made it so the waves could change height by the click of any key. I also made the sky change from clear to stromy by the click of the mouse. In this composition I also made a shark fin animate across the screen, upon playing the code.
 
-# Header 1
-## Header 2
-### Header 3
+ [f18magd150lab05_Hill](https://github.com/Hillster120/MADG150/tree/master/f18magd150lab05_Hill)
 
-- Bulleted
-- List
+The goal of this lab, was to create shapes that are responsive to user interaction. For this lab I created a tv, that is able to switch channels by the using the mouse to click the channel buttons. The tv is also able to turn on and off by the same user interaction.
 
-1. Numbered
-2. List
+[f18magd150lab06_Hill](https://github.com/Hillster120/MADG150/tree/master/f18magd150lab06_Hill)
 
-**Bold** and _Italic_ and `Code` text
+The goal of this lab was to create a screensaver. For this lab I created a screensaver where several different emojis are bouncing across the screen.
 
-[Link](url) and ![Image](src)
-```
+ [f18magd150lab07_Hill](https://github.com/Hillster120/MADG150/tree/master/f18magd150lab07_Hill)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The goal of this lab was to create a landscape drawing through the use of PVectors. For this lab I created a mountaion range that is behind a big lake.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hillster120/MADG150/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
